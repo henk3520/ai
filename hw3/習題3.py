@@ -1,3 +1,4 @@
+#chatgpt輔助
 import numpy as np
 
 # 定義目標函數的係數
