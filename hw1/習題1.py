@@ -1,3 +1,4 @@
+#chatgpt輔助
 import random
 
 class Course:
