@@ -1,3 +1,4 @@
+#chatgpt輔助
 import gym
 
 # 創建 CartPole 環境
@@ -34,4 +35,5 @@ for t in range(200):
 
 env.close()
 print(f"Total reward: {total_reward}")
-#chatgpt輔助
+
+
