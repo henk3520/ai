@@ -1,4 +1,4 @@
-#參考chatgpt
+#參考並修改chatgpt
 import random
 
 def print_board(board):
