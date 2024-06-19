@@ -1,3 +1,4 @@
+#參考gd.py並用chatgpt輔助完成
 import math
 import numpy as np
 from numpy.linalg import norm
@@ -42,4 +43,3 @@ p0 = np.array([0.0, 0.0])
 # 使用梯度下降法尋找最低點
 min_point = gradientDescendent(f, p0)
 print('Minimum point:', min_point)
-#參考gd.py並用chatgpt輔助完成
