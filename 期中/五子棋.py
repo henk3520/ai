@@ -1,3 +1,4 @@
+#參考chatgpt
 import random
 
 def print_board(board):
