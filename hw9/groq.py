@@ -1,3 +1,4 @@
+#參考chatgpt
 import os
 import sys
 from groq import Groq
@@ -24,4 +25,4 @@ chat_completion = client.chat.completions.create(
 
 # 輸出結果
 print(chat_completion.choices[0].message.content)
-#參考chatgpt
+
