@@ -1,3 +1,4 @@
+#參考chatgpt
 import numpy as np
 
 class Tensor:
